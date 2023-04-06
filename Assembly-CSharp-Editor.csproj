@@ -363,14 +363,23 @@
      <Reference Include="Unity.Plastic.Newtonsoft.Json">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
      </Reference>
+     <Reference Include="Google.VersionHandlerImpl">
+     <HintPath>G:\UnityFromOthers\23\YourChair\Assets\MobileDependencyResolver\Editor\Google.VersionHandlerImpl.dll</HintPath>
+     </Reference>
      <Reference Include="log4netPlastic">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\PackageCache\com.unity.collab-proxy@2.0.0\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+     </Reference>
+     <Reference Include="Google.JarResolver">
+     <HintPath>G:\UnityFromOthers\23\YourChair\Assets\MobileDependencyResolver\Editor\Google.JarResolver.dll</HintPath>
      </Reference>
      <Reference Include="DOTween">
      <HintPath>G:\UnityFromOthers\23\YourChair\Assets\Plugins\DOTween\DOTween.dll</HintPath>
      </Reference>
      <Reference Include="CString">
      <HintPath>G:\UnityFromOthers\23\YourChair\Assets\Plugins\CString.dll</HintPath>
+     </Reference>
+     <Reference Include="Google.VersionHandler">
+     <HintPath>G:\UnityFromOthers\23\YourChair\Assets\MobileDependencyResolver\Editor\Google.VersionHandler.dll</HintPath>
      </Reference>
      <Reference Include="Newtonsoft.Json">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
@@ -380,15 +389,6 @@
      </Reference>
      <Reference Include="Unity.Analytics.StandardEvents">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\PackageCache\com.unity.analytics@3.8.1\AnalyticsStandardEvents\Unity.Analytics.StandardEvents.dll</HintPath>
-     </Reference>
-     <Reference Include="Google.VersionHandlerImpl">
-     <HintPath>G:\UnityFromOthers\23\YourChair\Assets\MobileDependencyResolver\Editor\Google.VersionHandlerImpl.dll</HintPath>
-     </Reference>
-     <Reference Include="Google.JarResolver">
-     <HintPath>G:\UnityFromOthers\23\YourChair\Assets\MobileDependencyResolver\Editor\Google.JarResolver.dll</HintPath>
-     </Reference>
-     <Reference Include="Google.VersionHandler">
-     <HintPath>G:\UnityFromOthers\23\YourChair\Assets\MobileDependencyResolver\Editor\Google.VersionHandler.dll</HintPath>
      </Reference>
      <Reference Include="nunit.framework">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
@@ -801,11 +801,11 @@
      <Reference Include="UnityEngine.XR.LegacyInputHelpers">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.Mediation">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\Unity.Mediation.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.PlasticSCM.Editor">
+     <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.Purchasing.SecurityStub">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll</HintPath>
@@ -885,11 +885,11 @@
      <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VSCode.Editor">
-     <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.2D.Tilemap.Editor">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VSCode.Editor">
+     <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.Purchasing">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\UnityEngine.Purchasing.dll</HintPath>

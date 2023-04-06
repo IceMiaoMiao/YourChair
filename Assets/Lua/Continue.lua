@@ -11,10 +11,10 @@ function this.Quit(obj)
 end
 
 function ReStartOnClick ()
-    SceneManagement.SceneManager.LoadScene("Jump")
+    SceneManagement.SceneManager.LoadScene(1)
 end
 
 function QuitGame()
     print("Quit Game")
-    UnityEngine.Application.Quit()
+    OnApplicationQuit()
 end

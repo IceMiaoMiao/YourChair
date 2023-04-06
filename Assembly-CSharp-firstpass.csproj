@@ -729,11 +729,11 @@
      <Reference Include="UnityEngine.XR.LegacyInputHelpers">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.Mediation">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\Unity.Mediation.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.PlasticSCM.Editor">
+     <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.Purchasing.SecurityStub">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll</HintPath>
@@ -813,11 +813,11 @@
      <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.VSCode.Editor">
-     <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.2D.Tilemap.Editor">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VSCode.Editor">
+     <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.Purchasing">
      <HintPath>G:\UnityFromOthers\23\YourChair\Library\ScriptAssemblies\UnityEngine.Purchasing.dll</HintPath>

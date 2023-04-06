@@ -13,8 +13,7 @@ function this.Awake(object)
 end
 
 function LoginOnClick()
-    print("enter jump scene")
+    print("enter game scene")
     SceneManagement.SceneManager.LoadScene(1)
-
 end
 
