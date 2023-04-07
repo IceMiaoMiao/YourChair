@@ -8,6 +8,6 @@ function this.PlaySound()
     --local url = www('https://s191.convertio.me/p/ZncXAj6jb-b1aHBb9SCjfg/827dc661efc7fbe057bdc90476863d08/lingya.wav')
     print("music play")
     --coroutine.www(url)
-    audio.clip = url : GetAudioClip()
+    --audio.clip = url : GetAudioClip()
     audio : Play()
 end

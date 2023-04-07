@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -8,6 +9,11 @@ public class Login : MonoBehaviour {
 	void Start () {
         LuaManager.Instance.LuaClient.luaState.DoFile("Login.lua");
         LuaManager.Instance.LuaClient.CallFunc("Login.Awake", this.gameObject);
+        
 	}
-	
+
+	private void Update()
+	{
+		LuaManager.Instance.LuaClient.CallFunc("Login.Update",this.gameObject);
+	}
 }
