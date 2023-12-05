@@ -7,7 +7,7 @@ public class SceneChange : MonoBehaviour
 {
     public void EnterGameScene()
     {
-        SceneManager.LoadScene(1);
+        UnityEngine.SceneManagement.SceneManager.LoadScene(1);
         
     }
 

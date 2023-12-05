@@ -44,13 +44,13 @@
      <Folder Include="Assets\Plugins\DOTween\Editor" />
      <Folder Include="Assets\Plugins\DOTween\Editor\Imgs" />
      <Reference Include="UnityEngine">
-     <HintPath>E:\UnityHub\2022.2.5f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
+     <HintPath>E:\UnityHub\Unity\Editor\2022.3.0f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.CoreModule">
-     <HintPath>E:\UnityHub\2022.2.5f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
+     <HintPath>E:\UnityHub\Unity\Editor\2022.3.0f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor">
-     <HintPath>E:\UnityHub\2022.2.5f1c1\Editor\Data\Managed\UnityEngine\UnityEditor.dll</HintPath>
+     <HintPath>E:\UnityHub\Unity\Editor\2022.3.0f1\Editor\Data\Managed\UnityEngine\UnityEditor.dll</HintPath>
      </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
